@@ -6,7 +6,7 @@ You are required to create or fork a repo on Git and use Git bash on the desktop
 
 ## Checklist of the tasks that are required to be performed
 
-1. Add team members as collaborators and assign them appropriate right6s (if you are performing individual then create one dummy account for the task)
+1. Add team members as collaborators and assign them appropriate rights (if you are performing individual then create one dummy account for the task)
 
 2. Create a branch(development/production/feature)
 
